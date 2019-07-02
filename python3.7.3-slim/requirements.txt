@@ -1,2 +1,6 @@
 flask
 redis
+requests
+beautifulsoup4
+pymysql
+apscheduler
